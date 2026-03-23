@@ -1,0 +1,7 @@
+{
+  "prompt": "Cinematic photography. In a warm, earthy room, an indigenous elder and a group of young listeners sit in a circle. The elder is gently handing a beautiful, intricately woven cultural tapestry across the space to the younger generation. However, the center of the tapestry is rapidly unraveling and disintegrating into loose, colorless dust mid-air. The younger listeners hold out their hands, but only receive frayed, meaningless strings. Somber mood, natural lighting, a realistic metaphor for the loss of language, photorealistic.",
+  "model": "Nano Banana Pro",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://en.unesco.org/languages-in-danger",
+  "insight": "On average, one indigenous language goes extinct every two weeks, representing a tragic breakdown where cultural legacy turns to dust before the next generation can grasp it."
+}
