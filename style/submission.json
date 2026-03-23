@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese Ukiyo-e woodblock print in the style of Hokusai's 'Thirty-six Views of Mount Fuji'. The scene depicts a steep mountain pilgrimage path winding through 'neural' gatehouses. In the foreground, the path and a stone gate are rendered with sharp, dark sumi-e ink lines and vibrant ochre. As the path winds into the distance through sequential gates, a heavy 'bokashi' (color gradation) of white mountain mist swallows the landscape. The furthest gates are barely visible, their outlines dissolving into the paper grain. The sky uses a deep Prussian blue gradient that pales toward the horizon. The composition uses a strong diagonal line to show the 'vanishing' of the trail into nothingness. Authentic woodblock texture and slight ink bleed.",
+  "model": "Nano Banana 2",
+  "concept": "Vanishing Gradient",
+  "tradition_name": "Japanese Ukiyo-e (Edo-period)",
+  "tradition_period": "1603–1868 (specifically 1830s Hokusai style)",
+  "tradition_approach": "Utilized 'Bokashi' (gradation) and atmospheric perspective to map multiplicative gradient decay. Torii gates represent neural layers; their dissolution into mountain mist represents signal loss toward input layers. Circuit carvings adapt neural architecture into traditional 'sumi-e' line work."
+}
