@@ -1,0 +1,6 @@
+{
+  "prompt": "Hyper-realistic close-up photography. A master sculptor's weathered, dust-covered hands hold a sharp chisel against a delicate marble figure. The figure is beautiful but intentionally slightly 'under-finished' and smooth. The sculptor’s hand is pulled back, hovering an inch away from the stone, frozen in a moment of intentional restraint. On the floor are shards of a previous attempt that shattered because the carving went too deep. Soft, dramatic workshop lighting, marble dust in the air, deep focus on the tension in the hand. No text, no floating icons, photorealistic 8k.",
+  "model": "Nano Banana 2",
+  "concept": "Regularization",
+  "metaphor": "A sculptor intentionally stops carving a delicate statue to prevent it from cracking, mapping to the mathematical penalty on complexity that prevents model overfitting."
+}
